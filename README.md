@@ -9,7 +9,7 @@ I´m Edgar Manuel Perez Cob :rocket:
 __________
 
 ### My Experience
-- I´m currently learning **Backend with FastAPI and Django**
+- I´m currently learning **Backend with NodeJs**
 - I worked with Flutter 
 - I worked with WordPress
 - I have experience with **Tableau, Power Bi**
