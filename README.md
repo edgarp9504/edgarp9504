@@ -10,6 +10,7 @@ __________
 
 ### My Experience
 - I´m currently learning **Backend with NodeJs**
+- Development FrontEnd Jr
 - I worked with Flutter 
 - I worked with WordPress
 - I have experience with **Tableau, Power Bi**
