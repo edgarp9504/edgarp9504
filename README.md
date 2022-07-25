@@ -9,10 +9,8 @@ I´m Edgar Manuel Perez Cob :rocket:
 __________
 
 ### My Experience
-- I´m currently learning **Backend with NodeJs**
-- Development FrontEnd Jr
-- I worked with Flutter 
-- I worked with WordPress
+- I´m currently learning **Data Science**
+- I worked with ETL tools Pentaho, SSIS
 - I have experience with **Tableau, Power Bi**
 
 ### Talking About Personal Stuff
